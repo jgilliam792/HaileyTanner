@@ -1,0 +1,8 @@
+body {text-align:center; max-width:600px; margin:0 auto}
+h3 {text-align:left; border-bottom:1px #0000007a dashed; padding-bottom:1rem}
+ul {text-align:left}
+.percent {
+  width: 60%;
+  background-color: silver;
+  border: 1px solid red;
+}
